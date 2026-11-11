@@ -1,0 +1,21 @@
+running develop
+running egg_info
+writing final_package.egg-info/PKG-INFO
+writing dependency_links to final_package.egg-info/dependency_links.txt
+writing entry points to final_package.egg-info/entry_points.txt
+writing requirements to final_package.egg-info/requires.txt
+writing top-level names to final_package.egg-info/top_level.txt
+reading manifest file 'final_package.egg-info/SOURCES.txt'
+writing manifest file 'final_package.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/esmmam/robotic_final/Test/robotics-final/install/final_package/lib/python3.10/site-packages/final-package.egg-link (link to .)
+Installing emergency_brake_node script to /home/esmmam/robotic_final/Test/robotics-final/install/final_package/lib/final_package
+Installing gesture_recognition_node script to /home/esmmam/robotic_final/Test/robotics-final/install/final_package/lib/final_package
+Installing move_control_node script to /home/esmmam/robotic_final/Test/robotics-final/install/final_package/lib/final_package
+
+Installed /home/esmmam/robotic_final/Test/robotics-final/build/final_package
+running symlink_data
+symbolically linking /home/esmmam/robotic_final/Test/robotics-final/build/final_package/resource/final_package -> /home/esmmam/robotic_final/Test/robotics-final/install/final_package/share/ament_index/resource_index/packages
+symbolically linking /home/esmmam/robotic_final/Test/robotics-final/build/final_package/package.xml -> /home/esmmam/robotic_final/Test/robotics-final/install/final_package/share/final_package
+symbolically linking /home/esmmam/robotic_final/Test/robotics-final/build/final_package/launch/final.launch.py -> /home/esmmam/robotic_final/Test/robotics-final/install/final_package/share/final_package/launch
+symbolically linking /home/esmmam/robotic_final/Test/robotics-final/build/final_package/config/params.yaml -> /home/esmmam/robotic_final/Test/robotics-final/install/final_package/share/final_package/config

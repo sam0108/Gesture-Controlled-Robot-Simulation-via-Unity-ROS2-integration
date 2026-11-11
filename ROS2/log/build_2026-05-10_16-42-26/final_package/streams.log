@@ -1,0 +1,24 @@
+[0.706s] Invoking command in '/home/esmmam/robotic_final/Test/robotics-final/youting_src/yt_ws/src/final_package': PYTHONPATH=/home/esmmam/robotic_final/Test/robotics-final/build/final_package/prefix_override:/home/esmmam/.local/lib/python3.10/site-packages/colcon_core/task/python/colcon_distutils_commands:/home/esmmam/robotic_final/Test/robotics-final/install/final_package/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../../../build/final_package build --build-base /home/esmmam/robotic_final/Test/robotics-final/build/final_package/build install --record /home/esmmam/robotic_final/Test/robotics-final/build/final_package/install.log --single-version-externally-managed install_data
+[0.874s] running egg_info
+[0.875s] writing ../../../../build/final_package/final_package.egg-info/PKG-INFO
+[0.875s] writing dependency_links to ../../../../build/final_package/final_package.egg-info/dependency_links.txt
+[0.876s] writing entry points to ../../../../build/final_package/final_package.egg-info/entry_points.txt
+[0.876s] writing requirements to ../../../../build/final_package/final_package.egg-info/requires.txt
+[0.876s] writing top-level names to ../../../../build/final_package/final_package.egg-info/top_level.txt
+[0.877s] reading manifest file '../../../../build/final_package/final_package.egg-info/SOURCES.txt'
+[0.878s] adding license file 'LICENSE'
+[0.878s] writing manifest file '../../../../build/final_package/final_package.egg-info/SOURCES.txt'
+[0.879s] running build
+[0.879s] running build_py
+[0.879s] running install
+[0.879s] running install_lib
+[0.880s] running install_data
+[0.880s] running install_egg_info
+[0.882s] removing '/home/esmmam/robotic_final/Test/robotics-final/install/final_package/lib/python3.10/site-packages/final_package-0.0.0-py3.10.egg-info' (and everything under it)
+[0.882s] Copying ../../../../build/final_package/final_package.egg-info to /home/esmmam/robotic_final/Test/robotics-final/install/final_package/lib/python3.10/site-packages/final_package-0.0.0-py3.10.egg-info
+[0.883s] running install_scripts
+[0.900s] Installing emergency_brake_node script to /home/esmmam/robotic_final/Test/robotics-final/install/final_package/lib/final_package
+[0.901s] Installing gesture_recognition_node script to /home/esmmam/robotic_final/Test/robotics-final/install/final_package/lib/final_package
+[0.901s] Installing move_control_node script to /home/esmmam/robotic_final/Test/robotics-final/install/final_package/lib/final_package
+[0.902s] writing list of installed files to '/home/esmmam/robotic_final/Test/robotics-final/build/final_package/install.log'
+[0.941s] Invoked command in '/home/esmmam/robotic_final/Test/robotics-final/youting_src/yt_ws/src/final_package' returned '0': PYTHONPATH=/home/esmmam/robotic_final/Test/robotics-final/build/final_package/prefix_override:/home/esmmam/.local/lib/python3.10/site-packages/colcon_core/task/python/colcon_distutils_commands:/home/esmmam/robotic_final/Test/robotics-final/install/final_package/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../../../build/final_package build --build-base /home/esmmam/robotic_final/Test/robotics-final/build/final_package/build install --record /home/esmmam/robotic_final/Test/robotics-final/build/final_package/install.log --single-version-externally-managed install_data

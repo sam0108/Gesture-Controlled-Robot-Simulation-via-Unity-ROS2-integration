@@ -1,0 +1,25 @@
+[0.448s] Invoking command in '/home/esmmam/robotic_final/Test/robotics-final/build/final_package': PYTHONPATH=/home/esmmam/robotic_final/Test/robotics-final/build/final_package/prefix_override:/home/esmmam/.local/lib/python3.10/site-packages/colcon_core/task/python/colcon_distutils_commands:/home/esmmam/robotic_final/Test/robotics-final/install/final_package/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/esmmam/robotic_final/Test/robotics-final/build/final_package/build --no-deps symlink_data --force
+[0.638s] running develop
+[0.687s] /usr/lib/python3/dist-packages/pkg_resources/__init__.py:116: PkgResourcesDeprecationWarning: 1.1build1 is an invalid version and will not be supported in a future release
+[0.687s]   warnings.warn(
+[0.748s] running egg_info
+[0.749s] writing final_package.egg-info/PKG-INFO
+[0.749s] writing dependency_links to final_package.egg-info/dependency_links.txt
+[0.749s] writing entry points to final_package.egg-info/entry_points.txt
+[0.749s] writing requirements to final_package.egg-info/requires.txt
+[0.749s] writing top-level names to final_package.egg-info/top_level.txt
+[0.751s] reading manifest file 'final_package.egg-info/SOURCES.txt'
+[0.752s] writing manifest file 'final_package.egg-info/SOURCES.txt'
+[0.753s] running build_ext
+[0.753s] Creating /home/esmmam/robotic_final/Test/robotics-final/install/final_package/lib/python3.10/site-packages/final-package.egg-link (link to .)
+[0.753s] Installing emergency_brake_node script to /home/esmmam/robotic_final/Test/robotics-final/install/final_package/lib/final_package
+[0.754s] Installing gesture_recognition_node script to /home/esmmam/robotic_final/Test/robotics-final/install/final_package/lib/final_package
+[0.754s] Installing move_control_node script to /home/esmmam/robotic_final/Test/robotics-final/install/final_package/lib/final_package
+[0.754s] 
+[0.754s] Installed /home/esmmam/robotic_final/Test/robotics-final/build/final_package
+[0.754s] running symlink_data
+[0.754s] symbolically linking /home/esmmam/robotic_final/Test/robotics-final/build/final_package/resource/final_package -> /home/esmmam/robotic_final/Test/robotics-final/install/final_package/share/ament_index/resource_index/packages
+[0.755s] symbolically linking /home/esmmam/robotic_final/Test/robotics-final/build/final_package/package.xml -> /home/esmmam/robotic_final/Test/robotics-final/install/final_package/share/final_package
+[0.755s] symbolically linking /home/esmmam/robotic_final/Test/robotics-final/build/final_package/launch/final.launch.py -> /home/esmmam/robotic_final/Test/robotics-final/install/final_package/share/final_package/launch
+[0.756s] symbolically linking /home/esmmam/robotic_final/Test/robotics-final/build/final_package/config/params.yaml -> /home/esmmam/robotic_final/Test/robotics-final/install/final_package/share/final_package/config
+[0.780s] Invoked command in '/home/esmmam/robotic_final/Test/robotics-final/build/final_package' returned '0': PYTHONPATH=/home/esmmam/robotic_final/Test/robotics-final/build/final_package/prefix_override:/home/esmmam/.local/lib/python3.10/site-packages/colcon_core/task/python/colcon_distutils_commands:/home/esmmam/robotic_final/Test/robotics-final/install/final_package/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/esmmam/robotic_final/Test/robotics-final/build/final_package/build --no-deps symlink_data --force

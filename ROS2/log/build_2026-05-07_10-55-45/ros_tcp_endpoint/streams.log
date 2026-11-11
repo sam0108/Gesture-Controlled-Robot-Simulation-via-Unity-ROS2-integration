@@ -1,0 +1,72 @@
+[0.575s] Invoking command in '/home/esmmam/robotic_final/Test/robotics-final/ROS-TCP-Endpoint': PYTHONPATH=/home/esmmam/robotic_final/Test/robotics-final/build/ros_tcp_endpoint/prefix_override:/home/esmmam/.local/lib/python3.10/site-packages/colcon_core/task/python/colcon_distutils_commands:/home/esmmam/robotic_final/Test/robotics-final/install/ros_tcp_endpoint/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/ros_tcp_endpoint build --build-base /home/esmmam/robotic_final/Test/robotics-final/build/ros_tcp_endpoint/build install --record /home/esmmam/robotic_final/Test/robotics-final/build/ros_tcp_endpoint/install.log --install-scripts $base/lib/ros_tcp_endpoint --single-version-externally-managed install_data
+[0.709s] /usr/lib/python3/dist-packages/setuptools/dist.py:723: UserWarning: Usage of dash-separated 'script-dir' will not be supported in future versions. Please use the underscore name 'script_dir' instead
+[0.709s]   warnings.warn(
+[0.714s] running egg_info
+[0.714s] creating ../build/ros_tcp_endpoint/ros_tcp_endpoint.egg-info
+[0.715s] writing ../build/ros_tcp_endpoint/ros_tcp_endpoint.egg-info/PKG-INFO
+[0.715s] writing dependency_links to ../build/ros_tcp_endpoint/ros_tcp_endpoint.egg-info/dependency_links.txt
+[0.715s] writing entry points to ../build/ros_tcp_endpoint/ros_tcp_endpoint.egg-info/entry_points.txt
+[0.715s] writing requirements to ../build/ros_tcp_endpoint/ros_tcp_endpoint.egg-info/requires.txt
+[0.715s] writing top-level names to ../build/ros_tcp_endpoint/ros_tcp_endpoint.egg-info/top_level.txt
+[0.715s] writing manifest file '../build/ros_tcp_endpoint/ros_tcp_endpoint.egg-info/SOURCES.txt'
+[0.719s] reading manifest file '../build/ros_tcp_endpoint/ros_tcp_endpoint.egg-info/SOURCES.txt'
+[0.719s] adding license file 'LICENSE'
+[0.720s] writing manifest file '../build/ros_tcp_endpoint/ros_tcp_endpoint.egg-info/SOURCES.txt'
+[0.721s] running build
+[0.721s] running build_py
+[0.721s] creating /home/esmmam/robotic_final/Test/robotics-final/build/ros_tcp_endpoint/build
+[0.721s] creating /home/esmmam/robotic_final/Test/robotics-final/build/ros_tcp_endpoint/build/lib
+[0.722s] creating /home/esmmam/robotic_final/Test/robotics-final/build/ros_tcp_endpoint/build/lib/ros_tcp_endpoint
+[0.722s] copying ros_tcp_endpoint/exceptions.py -> /home/esmmam/robotic_final/Test/robotics-final/build/ros_tcp_endpoint/build/lib/ros_tcp_endpoint
+[0.722s] copying ros_tcp_endpoint/__init__.py -> /home/esmmam/robotic_final/Test/robotics-final/build/ros_tcp_endpoint/build/lib/ros_tcp_endpoint
+[0.722s] copying ros_tcp_endpoint/subscriber.py -> /home/esmmam/robotic_final/Test/robotics-final/build/ros_tcp_endpoint/build/lib/ros_tcp_endpoint
+[0.722s] copying ros_tcp_endpoint/communication.py -> /home/esmmam/robotic_final/Test/robotics-final/build/ros_tcp_endpoint/build/lib/ros_tcp_endpoint
+[0.722s] copying ros_tcp_endpoint/service.py -> /home/esmmam/robotic_final/Test/robotics-final/build/ros_tcp_endpoint/build/lib/ros_tcp_endpoint
+[0.722s] copying ros_tcp_endpoint/publisher.py -> /home/esmmam/robotic_final/Test/robotics-final/build/ros_tcp_endpoint/build/lib/ros_tcp_endpoint
+[0.722s] copying ros_tcp_endpoint/client.py -> /home/esmmam/robotic_final/Test/robotics-final/build/ros_tcp_endpoint/build/lib/ros_tcp_endpoint
+[0.722s] copying ros_tcp_endpoint/default_server_endpoint.py -> /home/esmmam/robotic_final/Test/robotics-final/build/ros_tcp_endpoint/build/lib/ros_tcp_endpoint
+[0.723s] copying ros_tcp_endpoint/server.py -> /home/esmmam/robotic_final/Test/robotics-final/build/ros_tcp_endpoint/build/lib/ros_tcp_endpoint
+[0.723s] copying ros_tcp_endpoint/unity_service.py -> /home/esmmam/robotic_final/Test/robotics-final/build/ros_tcp_endpoint/build/lib/ros_tcp_endpoint
+[0.723s] copying ros_tcp_endpoint/thread_pauser.py -> /home/esmmam/robotic_final/Test/robotics-final/build/ros_tcp_endpoint/build/lib/ros_tcp_endpoint
+[0.723s] copying ros_tcp_endpoint/tcp_sender.py -> /home/esmmam/robotic_final/Test/robotics-final/build/ros_tcp_endpoint/build/lib/ros_tcp_endpoint
+[0.723s] running install
+[0.723s] running install_lib
+[0.724s] creating /home/esmmam/robotic_final/Test/robotics-final/install/ros_tcp_endpoint/lib/python3.10/site-packages/ros_tcp_endpoint
+[0.724s] copying /home/esmmam/robotic_final/Test/robotics-final/build/ros_tcp_endpoint/build/lib/ros_tcp_endpoint/exceptions.py -> /home/esmmam/robotic_final/Test/robotics-final/install/ros_tcp_endpoint/lib/python3.10/site-packages/ros_tcp_endpoint
+[0.725s] copying /home/esmmam/robotic_final/Test/robotics-final/build/ros_tcp_endpoint/build/lib/ros_tcp_endpoint/__init__.py -> /home/esmmam/robotic_final/Test/robotics-final/install/ros_tcp_endpoint/lib/python3.10/site-packages/ros_tcp_endpoint
+[0.725s] copying /home/esmmam/robotic_final/Test/robotics-final/build/ros_tcp_endpoint/build/lib/ros_tcp_endpoint/subscriber.py -> /home/esmmam/robotic_final/Test/robotics-final/install/ros_tcp_endpoint/lib/python3.10/site-packages/ros_tcp_endpoint
+[0.725s] copying /home/esmmam/robotic_final/Test/robotics-final/build/ros_tcp_endpoint/build/lib/ros_tcp_endpoint/communication.py -> /home/esmmam/robotic_final/Test/robotics-final/install/ros_tcp_endpoint/lib/python3.10/site-packages/ros_tcp_endpoint
+[0.725s] copying /home/esmmam/robotic_final/Test/robotics-final/build/ros_tcp_endpoint/build/lib/ros_tcp_endpoint/service.py -> /home/esmmam/robotic_final/Test/robotics-final/install/ros_tcp_endpoint/lib/python3.10/site-packages/ros_tcp_endpoint
+[0.725s] copying /home/esmmam/robotic_final/Test/robotics-final/build/ros_tcp_endpoint/build/lib/ros_tcp_endpoint/publisher.py -> /home/esmmam/robotic_final/Test/robotics-final/install/ros_tcp_endpoint/lib/python3.10/site-packages/ros_tcp_endpoint
+[0.725s] copying /home/esmmam/robotic_final/Test/robotics-final/build/ros_tcp_endpoint/build/lib/ros_tcp_endpoint/client.py -> /home/esmmam/robotic_final/Test/robotics-final/install/ros_tcp_endpoint/lib/python3.10/site-packages/ros_tcp_endpoint
+[0.726s] copying /home/esmmam/robotic_final/Test/robotics-final/build/ros_tcp_endpoint/build/lib/ros_tcp_endpoint/default_server_endpoint.py -> /home/esmmam/robotic_final/Test/robotics-final/install/ros_tcp_endpoint/lib/python3.10/site-packages/ros_tcp_endpoint
+[0.726s] copying /home/esmmam/robotic_final/Test/robotics-final/build/ros_tcp_endpoint/build/lib/ros_tcp_endpoint/server.py -> /home/esmmam/robotic_final/Test/robotics-final/install/ros_tcp_endpoint/lib/python3.10/site-packages/ros_tcp_endpoint
+[0.726s] copying /home/esmmam/robotic_final/Test/robotics-final/build/ros_tcp_endpoint/build/lib/ros_tcp_endpoint/unity_service.py -> /home/esmmam/robotic_final/Test/robotics-final/install/ros_tcp_endpoint/lib/python3.10/site-packages/ros_tcp_endpoint
+[0.726s] copying /home/esmmam/robotic_final/Test/robotics-final/build/ros_tcp_endpoint/build/lib/ros_tcp_endpoint/thread_pauser.py -> /home/esmmam/robotic_final/Test/robotics-final/install/ros_tcp_endpoint/lib/python3.10/site-packages/ros_tcp_endpoint
+[0.726s] copying /home/esmmam/robotic_final/Test/robotics-final/build/ros_tcp_endpoint/build/lib/ros_tcp_endpoint/tcp_sender.py -> /home/esmmam/robotic_final/Test/robotics-final/install/ros_tcp_endpoint/lib/python3.10/site-packages/ros_tcp_endpoint
+[0.726s] byte-compiling /home/esmmam/robotic_final/Test/robotics-final/install/ros_tcp_endpoint/lib/python3.10/site-packages/ros_tcp_endpoint/exceptions.py to exceptions.cpython-310.pyc
+[0.726s] byte-compiling /home/esmmam/robotic_final/Test/robotics-final/install/ros_tcp_endpoint/lib/python3.10/site-packages/ros_tcp_endpoint/__init__.py to __init__.cpython-310.pyc
+[0.726s] byte-compiling /home/esmmam/robotic_final/Test/robotics-final/install/ros_tcp_endpoint/lib/python3.10/site-packages/ros_tcp_endpoint/subscriber.py to subscriber.cpython-310.pyc
+[0.726s] byte-compiling /home/esmmam/robotic_final/Test/robotics-final/install/ros_tcp_endpoint/lib/python3.10/site-packages/ros_tcp_endpoint/communication.py to communication.cpython-310.pyc
+[0.726s] byte-compiling /home/esmmam/robotic_final/Test/robotics-final/install/ros_tcp_endpoint/lib/python3.10/site-packages/ros_tcp_endpoint/service.py to service.cpython-310.pyc
+[0.727s] byte-compiling /home/esmmam/robotic_final/Test/robotics-final/install/ros_tcp_endpoint/lib/python3.10/site-packages/ros_tcp_endpoint/publisher.py to publisher.cpython-310.pyc
+[0.727s] byte-compiling /home/esmmam/robotic_final/Test/robotics-final/install/ros_tcp_endpoint/lib/python3.10/site-packages/ros_tcp_endpoint/client.py to client.cpython-310.pyc
+[0.728s] byte-compiling /home/esmmam/robotic_final/Test/robotics-final/install/ros_tcp_endpoint/lib/python3.10/site-packages/ros_tcp_endpoint/default_server_endpoint.py to default_server_endpoint.cpython-310.pyc
+[0.728s] byte-compiling /home/esmmam/robotic_final/Test/robotics-final/install/ros_tcp_endpoint/lib/python3.10/site-packages/ros_tcp_endpoint/server.py to server.cpython-310.pyc
+[0.729s] byte-compiling /home/esmmam/robotic_final/Test/robotics-final/install/ros_tcp_endpoint/lib/python3.10/site-packages/ros_tcp_endpoint/unity_service.py to unity_service.cpython-310.pyc
+[0.730s] byte-compiling /home/esmmam/robotic_final/Test/robotics-final/install/ros_tcp_endpoint/lib/python3.10/site-packages/ros_tcp_endpoint/thread_pauser.py to thread_pauser.cpython-310.pyc
+[0.730s] byte-compiling /home/esmmam/robotic_final/Test/robotics-final/install/ros_tcp_endpoint/lib/python3.10/site-packages/ros_tcp_endpoint/tcp_sender.py to tcp_sender.cpython-310.pyc
+[0.731s] running install_data
+[0.731s] creating /home/esmmam/robotic_final/Test/robotics-final/install/ros_tcp_endpoint/share/ament_index
+[0.731s] creating /home/esmmam/robotic_final/Test/robotics-final/install/ros_tcp_endpoint/share/ament_index/resource_index
+[0.731s] creating /home/esmmam/robotic_final/Test/robotics-final/install/ros_tcp_endpoint/share/ament_index/resource_index/packages
+[0.731s] copying resource/ros_tcp_endpoint -> /home/esmmam/robotic_final/Test/robotics-final/install/ros_tcp_endpoint/share/ament_index/resource_index/packages
+[0.731s] copying package.xml -> /home/esmmam/robotic_final/Test/robotics-final/install/ros_tcp_endpoint/share/ros_tcp_endpoint
+[0.732s] creating /home/esmmam/robotic_final/Test/robotics-final/install/ros_tcp_endpoint/share/ros_tcp_endpoint/launch
+[0.732s] copying launch/endpoint.py -> /home/esmmam/robotic_final/Test/robotics-final/install/ros_tcp_endpoint/share/ros_tcp_endpoint/launch
+[0.732s] running install_egg_info
+[0.733s] Copying ../build/ros_tcp_endpoint/ros_tcp_endpoint.egg-info to /home/esmmam/robotic_final/Test/robotics-final/install/ros_tcp_endpoint/lib/python3.10/site-packages/ros_tcp_endpoint-0.0.1-py3.10.egg-info
+[0.734s] running install_scripts
+[0.748s] Installing default_server_endpoint script to /home/esmmam/robotic_final/Test/robotics-final/install/ros_tcp_endpoint/lib/ros_tcp_endpoint
+[0.749s] writing list of installed files to '/home/esmmam/robotic_final/Test/robotics-final/build/ros_tcp_endpoint/install.log'
+[0.773s] Invoked command in '/home/esmmam/robotic_final/Test/robotics-final/ROS-TCP-Endpoint' returned '0': PYTHONPATH=/home/esmmam/robotic_final/Test/robotics-final/build/ros_tcp_endpoint/prefix_override:/home/esmmam/.local/lib/python3.10/site-packages/colcon_core/task/python/colcon_distutils_commands:/home/esmmam/robotic_final/Test/robotics-final/install/ros_tcp_endpoint/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/ros_tcp_endpoint build --build-base /home/esmmam/robotic_final/Test/robotics-final/build/ros_tcp_endpoint/build install --record /home/esmmam/robotic_final/Test/robotics-final/build/ros_tcp_endpoint/install.log --install-scripts $base/lib/ros_tcp_endpoint --single-version-externally-managed install_data

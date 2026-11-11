@@ -1,0 +1,21 @@
+move_control_node:
+  ros__parameters:
+    speeds:
+      forward: 1.5
+      reverse: -1.0
+      turn: 0.5
+    watchdog_timeout: 3.0
+    gestures:
+      Pointing_Up: forward
+      Victory: reverse
+      Open_Palm: stop
+      Closed_Fist: turn_right
+      Thumb_Up: turn_left
+      Thumb_Down: stop
+      ILoveYou: ""
+      None: stop
+
+emergency_brake_node:
+  ros__parameters:
+    front_safe_distance: 1.0
+    back_safe_distance: 1.0
